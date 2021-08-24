@@ -1,4 +1,6 @@
-# matrix-multplicacation  
+# matrix-multplicacation
+  
+  
 A very simple matrix multiplicator
 Usage: ./foo n m p.   
 Where n is the number of rows of the first matrix.  
